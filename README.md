@@ -1,2 +1,3 @@
 # Test
-A test repository
+This is the readme file of test repository.
+EOF
